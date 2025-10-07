@@ -187,9 +187,7 @@ To test the application:
 - No backend or database required
 - Internet connection needed for API calls
 
-## 🤝 Contributing
 
-Feel free to fork this project and submit pull requests for any improvements!
 
 ## 📄 License
 
